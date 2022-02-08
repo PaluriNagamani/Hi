@@ -1,0 +1,24 @@
+Assignment 1: comparision operations
+a=37
+b=25
+print(a<b)
+print(a>b)
+print(a<=b)
+print(a>=b)
+print(a==b)
+print(!=b)
+Output:
+False
+True
+False
+True
+False
+True
+Assignment 2:convert kilometres to centemeters
+km=int(input ('enter km'))
+Cm=km * 100000
+Print (cm)
+
+Output:
+enter km 6
+600000
